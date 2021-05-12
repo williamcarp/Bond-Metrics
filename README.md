@@ -9,3 +9,5 @@ Programs to evaluate interest rate risk for bonds.
 * Yield to maturiy 
 * bond-options 
 * yield maintenance calculation
+* use some kind of fictional CMBS loan for yield maintenance
+* use some kind of fictional mortgage for option calculation 
