@@ -8,3 +8,4 @@ Programs to evaluate interest rate risk for bonds.
 * CPR, PCA, SMM 
 * Yield to maturiy 
 * bond-options 
+* yield maintenance calculation
