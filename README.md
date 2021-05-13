@@ -1,5 +1,11 @@
 # Bond Metrics
 
+## Yield Spreads
+
+## Credit Ratings
+
+## Todo
+
 
 Programs to evaluate interest rate risk for bonds.
 * Duration & Convexity 
